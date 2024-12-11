@@ -15,3 +15,11 @@ Qt5 scada controls for industrial HMI usage.
 - pipe：管道
 - robotic arm：机器臂
 - shelf：架子
+
+
+
+## temperature
+
+![](./res/温度计.gif)
+
+## tank
